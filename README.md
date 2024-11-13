@@ -24,7 +24,7 @@ I'm a passionate full-stack web developer focused on building efficient, scalabl
 
 ## 📚 Projects
 
-### [Amazon Clone](https://drtx2.github.io/copying-amazon/)
+### [Amazon Clone](https://copying-amazon.vercel.app/)
 An e-commerce website that simulates buying and selling products, similar to Amazon. It allows users to browse products, add them to the cart, and make purchases with an intuitive and dynamic user experience.
 
 #### Main Features:
