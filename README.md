@@ -1,6 +1,6 @@
 # Hello, I'm David Manjarres 👨‍💻
 
-I'm a software developer with experience in programming, algorithms, data structures, web development, and system administration. I'm passionate about creating efficient and scalable solutions. My goal is to continue learning and mastering computer science.
+I'm a passionate full-stack web developer focused on building efficient, scalable, and user-centered solutions. With a strong foundation in both front-end and back-end technologies, I specialize in creating dynamic web applications that meet the needs of clients while ensuring an intuitive user experience. I am dedicated to solving real-world problems and delivering high-quality products that are both functional and user-friendly. My goal is to continually improve my skills and stay up-to-date with the latest industry trends, always striving to exceed client expectations.
 
 ## 🔧 Skills
 
