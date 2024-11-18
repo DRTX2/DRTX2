@@ -62,7 +62,7 @@ An e-commerce website that simulates buying and selling products, similar to Ama
 - Email: [davidmanjarres2004@gmail.com]
 - LinkedIn: [David Manjarres](www.linkedin.com/in/david-manjarres-quintero-056823211)
 - GitHub: [David Manjarres](https://github.com/DRTX2)
-
+- [Portfolio](https://cv-eta-pink.vercel.app/)
 ## 📜 Languages
 - Spanish: Native
 - English: Conversational
