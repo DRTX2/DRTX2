@@ -27,16 +27,16 @@ I am a passionate **full-stack web developer** committed to building efficient, 
 
 ---
 
+## 🌐 Languages  
+
+- **Spanish**: Native  
+- **English**: Conversational  
+
+---
+
 ## 📫 Contact  
 
 - **Email**: [davidmanjarres2004@gmail.com](mailto:davidmanjarres2004@gmail.com)  
 - **LinkedIn**: [David Manjarres](https://www.linkedin.com/in/david-manjarres-quintero-056823211)  
 - **GitHub**: [David Manjarres](https://github.com/DRTX2)  
 - **Portfolio**: [Visit Here](https://cv-eta-pink.vercel.app/)  
-
----
-
-## 🌐 Languages  
-
-- **Spanish**: Native  
-- **English**: Conversational  
