@@ -1,9 +1,35 @@
-<h1 align="center">Hi 👋, I'm David Manjarres</h1>
-<h3 align="center">Full-Stack Developer & Cloud Engineer | Ecuador 🇪🇨</h3>
+<h1 align="center" style="font-weight:700; font-size:2.8rem;">
+  Hi 👋, I'm <span style="color:#4F8EF7;">David Manjarres</span>
+</h1>
 
-<p align="center">
-  Specialized in building scalable, cloud-native applications with expertise in microservices architecture, event-driven systems, and CI/CD automation. Passionate about clean code, architectural patterns, and delivering high-performance solutions across the full technology stack.
+<h3 align="center" style="font-weight:500; color:#6c6c6c;">
+  Full-Stack Developer • Cloud Engineer • Ecuador 🇪🇨
+</h3>
+
+<br>
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="260px">
+</picture>
+
+<p align="left" style="line-height:1.6; font-size:1.05rem;">
+  🚀 Specialized in building <strong>scalable, cloud-native applications</strong> with solid experience in 
+  <strong>microservices</strong>, <strong>event-driven architectures</strong>, and <strong>CI/CD automation</strong>.
+  <br><br>
+  💻 Passionate about <strong>clean code</strong>, <strong>modern architectural patterns</strong>, and crafting 
+  <strong>high-performance solutions</strong> across the full stack.
+  <br><br>
+  🎓 Currently pursuing a <strong>B.Sc. in Software Engineering</strong> at the Technical University of Ambato, Ecuador.
+  <br><br>
+  🧩 Open to opportunities in <strong>Full-Stack Development</strong>, <strong>Cloud Engineering</strong>, and <strong>DevOps</strong>.
 </p>
+
+<br><br>
+
+<hr>
+
 
 ### 📊 GitHub Stats
 
@@ -25,44 +51,69 @@
 
 ### 🏆 Highlights & Achievements
 
-- 🏗️ **Architecture Expertise**: Implementing **Clean Architecture**, **Hexagonal Architecture**, **Microservices**, and **Event-Driven Architecture** patterns for scalable, maintainable systems.
-- ☁️ **Cloud & DevOps**: Proficient with **Azure** cloud services, **CI/CD pipelines** using **Jenkins** and **GitHub Actions**, and container orchestration with **Docker** and **Kubernetes**.
-- 🔄 **Event-Driven Systems**: Experienced in building distributed messaging systems with **RabbitMQ** and **Kafka** for real-time data processing and asynchronous communication.
-- 💻 **Full-Stack Development**: Building modern web applications with **React**, **Angular**, and **React Native** for cross-platform mobile solutions, paired with robust backends using **Node.js**, **NestJS**, **Laravel**, and **Spring**.
-- 🎨 **Modern UI/UX**: Creating responsive, pixel-perfect interfaces with **TailwindCSS**, **Bootstrap**, and **SCSS** following best practices in accessibility and user experience.
-- 🔐 **Security & Performance**: Implementing **JWT-based authentication**, **caching mechanisms**, **data encryption**, and performance optimization strategies for production-grade applications.
-- 🧪 **Quality Assurance**: Applying testing strategies, continuous integration, and automated deployment pipelines to ensure code reliability and rapid delivery.
-- 🛠️ **SOLID Principles**: Consistently applying design patterns and SOLID principles to create extensible, testable, and maintainable codebases.
+- 🏗️ **Architecture Expertise**  
+  Clean Architecture • Hexagonal Architecture • Microservices • Event-Driven Architecture
+
+- ☁️ **Cloud & DevOps**  
+  Azure • CI/CD (Jenkins, GitHub Actions) • Docker • Kubernetes
+
+- 🔄 **Event-Driven Systems**  
+  Distributed messaging with RabbitMQ & Kafka for real-time and async processing
+
+- 💻 **Full-Stack Development**  
+  Frontend: React • Angular • React Native  
+  Backend: Node.js • NestJS • Laravel • Spring Boot
+
+- 🎨 **Modern UI/UX**  
+  TailwindCSS • Bootstrap • SCSS • Responsive & accessible design
+
+- 🔐 **Security & Performance**  
+  JWT Auth • Caching • Encryption • Optimization for production systems
+
+- 🧪 **Quality Assurance**  
+  Testing strategies • Continuous Integration • Automated deployments
+
+- 🛠️ **SOLID & Clean Code**  
+  Strong design principles for scalable and maintainable software
 
 ---
 
 ### 🎯 Currently Working On
-- 🚀 Building production-ready applications with event-driven architectures using **Kafka** and **RabbitMQ**
-- ☁️ Developing and deploying cloud-native solutions on **Azure**
-- 📱 Creating cross-platform mobile applications with **React Native**
-- 🔄 Implementing automated CI/CD pipelines with **Jenkins** and **GitHub Actions**
+
+- 🚀 Event-driven applications using **Kafka** & **RabbitMQ**
+- ☁️ Cloud-native solutions on **Microsoft Azure**
+- 📱 Cross-platform mobile apps with **React Native**
+- 🔄 Automated CI/CD pipelines (Jenkins + GitHub Actions)
+
+---
 
 ### 🤝 Open To
-- 💼 Full-time opportunities in Full-Stack Development, Cloud Engineering, or DevOps
-- 🤝 Collaborations on microservices, event-driven, and cloud-based projects
+
+- 💼 Full-time roles in Full-Stack, Cloud Engineering, or DevOps  
+- 🤝 Collaborations on microservices & cloud architectures  
 - 🚀 Open-source contributions and technical consulting
 
 ---
 
 ### 💬 Areas of Expertise
-**Full-Stack Engineering • Cloud Architecture • Microservices • Event-Driven Systems • CI/CD Automation • Clean Code • Software Design Patterns**
 
-- 👨‍💻 Portfolio: [drtx2.github.io/portfolio](https://drtx2.github.io/portfolio)
-- 🎥 YouTube: [@davidoswaldomanjarresquint9839](https://www.youtube.com/@davidoswaldomanjarresquint9839)
+**Full-Stack Engineering • Cloud Architecture • Microservices • Event-Driven Systems •  
+CI/CD Automation • Clean Code • Software Design Patterns**
+
+- 👨‍💻 Portfolio: **https://drtx2.github.io/portfolio**  
+- 🎥 YouTube: **@davidoswaldomanjarresquint9839**  
 - 📧 Email: **davidmanjarres2004@gmail.com**
 
 ---
 
 ### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/david-manjarres-quintero-056823211/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" /></a>
-  <a href="https://www.youtube.com/@davidoswaldomanjarresquint9839" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="30" /></a>
+<p align="center">
+  <a href="mailto:davidmanjarres2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/DRTX2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/david-manjarres-quintero-056823211/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/593979273738"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@davidoswaldomanjarresquint9839"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
@@ -133,6 +184,20 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="50px"> </picture> Operating Systems
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white)
 
 </div>
 
