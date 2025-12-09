@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm David Manjarres</h1>
-<h3 align="center">Full-Stack Developer | Ecuador 🇪🇨</h3>
+<h3 align="center">Full-Stack Developer & Cloud Engineer | Ecuador 🇪🇨</h3>
 
 <p align="center">
-  Passionate about building scalable and impactful web applications. I specialize in both frontend and backend development, always focused on clean architecture and efficient solutions. Let’s build something amazing together!
+  Specialized in building scalable, cloud-native applications with expertise in microservices architecture, event-driven systems, and CI/CD automation. Passionate about clean code, architectural patterns, and delivering high-performance solutions across the full technology stack.
 </p>
 
 ### 📊 GitHub Stats
@@ -25,29 +25,32 @@
 
 ### 🏆 Highlights & Achievements
 
-- 🧩 Builds full-stack applications using **React** with **TailwindCSS**, **Bootstrap**, and **SCSS**, ensuring modern and responsive UIs.
-- 🚀 Develops robust RESTful APIs with **Node.js**, **Express**, **NestJS**, and **Laravel** applying modular architecture and clean code principles.
-- 📦 Mastered **Docker** for containerizing applications across dev and production environments.
-- 🧪 Currently exploring **Kubernetes** to scale backend deployments and improve infrastructure resilience.
-- 🧰 Integrates tools like **Postman**, **Git**, and **VS Code** to optimize the development workflow.
-- 🧠 Applies software architecture principles such as **Clean Architecture**, **Hexagonal Architecture**, **SOLID**, and **design patterns** to create scalable and maintainable backend systems.
-- 🎓 Collaborated on university projects involving **IoT** and **responsive design**, applying agile teamwork and documentation.
-🔐 Built secure **REST APIs** with **JWT-based authentication**, integrated **caching** mechanisms for performance, and applied **data encryption** techniques for sensitive information.
+- 🏗️ **Architecture Expertise**: Implementing **Clean Architecture**, **Hexagonal Architecture**, **Microservices**, and **Event-Driven Architecture** patterns for scalable, maintainable systems.
+- ☁️ **Cloud & DevOps**: Proficient with **Azure** cloud services, **CI/CD pipelines** using **Jenkins** and **GitHub Actions**, and container orchestration with **Docker** and **Kubernetes**.
+- 🔄 **Event-Driven Systems**: Experienced in building distributed messaging systems with **RabbitMQ** and **Kafka** for real-time data processing and asynchronous communication.
+- 💻 **Full-Stack Development**: Building modern web applications with **React**, **Angular**, and **React Native** for cross-platform mobile solutions, paired with robust backends using **Node.js**, **NestJS**, **Laravel**, and **Spring**.
+- 🎨 **Modern UI/UX**: Creating responsive, pixel-perfect interfaces with **TailwindCSS**, **Bootstrap**, and **SCSS** following best practices in accessibility and user experience.
+- 🔐 **Security & Performance**: Implementing **JWT-based authentication**, **caching mechanisms**, **data encryption**, and performance optimization strategies for production-grade applications.
+- 🧪 **Quality Assurance**: Applying testing strategies, continuous integration, and automated deployment pipelines to ensure code reliability and rapid delivery.
+- 🛠️ **SOLID Principles**: Consistently applying design patterns and SOLID principles to create extensible, testable, and maintainable codebases.
 
 ---
 
-### 🧠 Currently Working On
-- 🛠️ Freelance and personal web app projects
-- 🧪 Learning **RabbitMQ** for distributed messaging systems
+### 🎯 Currently Working On
+- 🚀 Building production-ready applications with event-driven architectures using **Kafka** and **RabbitMQ**
+- ☁️ Developing and deploying cloud-native solutions on **Azure**
+- 📱 Creating cross-platform mobile applications with **React Native**
+- 🔄 Implementing automated CI/CD pipelines with **Jenkins** and **GitHub Actions**
 
-### 🔍 Open To
-- 🤝 Collaborations on full-stack and cloud-based projects
-- 🚀 Contributors for my [Amazon Clone](https://github.com/DRTX2/copying-amazon)
+### 🤝 Open To
+- 💼 Full-time opportunities in Full-Stack Development, Cloud Engineering, or DevOps
+- 🤝 Collaborations on microservices, event-driven, and cloud-based projects
+- 🚀 Open-source contributions and technical consulting
 
 ---
 
-### 💬 Ask Me About
-**Software Development, Full-Stack Engineering, Clean Architecture, Microservices, React, and Scalable Backends**
+### 💬 Areas of Expertise
+**Full-Stack Engineering • Cloud Architecture • Microservices • Event-Driven Systems • CI/CD Automation • Clean Code • Software Design Patterns**
 
 - 👨‍💻 Portfolio: [drtx2.github.io/portfolio](https://drtx2.github.io/portfolio)
 - 🎥 YouTube: [@davidoswaldomanjarresquint9839](https://www.youtube.com/@davidoswaldomanjarresquint9839)
@@ -64,80 +67,113 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 💻 Languages
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/></a>
-<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"/></a>
-<a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/></a>
+<div align="center">
 
-#### 🚀 Frameworks & Libraries
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="40"/></a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40"/></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" alt="Laravel" width="40"/></a>
-<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40"/></a>
-<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" width="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"/></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40"/></a>
+### 💻 Programming Languages
 
-#### 🗄️ Databases
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/></a>
-<a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40"/></a>
-<a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40"/></a>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🔧 Tools & Platforms
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"/></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/></a>
-<a href="https://webpack.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40"/></a>
-<a href="https://gulpjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp" width="40"/></a>
-<a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40"/></a>
+### 🎨 Frontend Development
 
-#### 🎨 UI/UX
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/></a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" alt="AdobeXD" width="40"/></a>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### **Others**
+### ⚙️ Backend Development
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40" style="margin-right: 10px;"/></a>
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="gitflow" width="40" height="40" style="margin-right: 10px;"/></a>
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="gitflow" width="40" height="40" style="margin-right: 10px;"/></a>
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40" style="margin-right: 10px;"/></a>
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40" style="margin-right: 10px;"/></a>
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="intellij" width="40" height="40" style="margin-right: 10px;"/></a>
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" alt="intellij" width="40" height="40" style="margin-right: 10px;"/></a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" style="margin-right: 10px;"/></a>
-<a href="https://canvasjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" style="margin-right: 10px;"/></a>
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" style="margin-right: 10px;"/></a>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📨 Message Brokers & Event Streaming
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### 🛠️ Tools & Others
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
 ### 🎓 Education
 
-- **B.Sc. in Software Engineering (2021–2026)**  
-  *Technical University of Ambato*  
-  _Relevant Courses: IoT, Responsive Web Design_
+**B.Sc. in Software Engineering** (2021–2026)  
+*Technical University of Ambato, Ecuador*  
+Relevant Coursework: Software Architecture, IoT Systems, Responsive Web Design, Database Management, Distributed Systems
 
 ---
 
 ### 🌍 Languages
 
 - **Spanish:** Native  
-- **English:** Conversational
+- **English:** Professional Working Proficiency
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### 📈 Professional Focus
+
+```
+├── Architecture & Design
+│   ├── Microservices Architecture
+│   ├── Event-Driven Architecture
+│   ├── Clean Architecture
+│   └── Hexagonal Architecture
+│
+├── Cloud & DevOps
+│   ├── Azure Cloud Services
+│   ├── CI/CD Pipelines (Jenkins, GitHub Actions)
+│   ├── Container Orchestration (Docker, Kubernetes)
+│   └── Infrastructure as Code
+│
+└── Distributed Systems
+    ├── Message Brokers (RabbitMQ, Kafka)
+    ├── API Gateway Patterns
+    └── Service Mesh & Load Balancing
+```
+
+---
+
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
