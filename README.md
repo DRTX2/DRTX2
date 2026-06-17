@@ -1,8 +1,12 @@
 <!-- Language selector -->
-<p align="right">
-  <a href="#version-español">🇪🇸 Español</a> &nbsp;|&nbsp;
-  <a href="#english-version">🇺🇸 English</a>
-</p>
+<div align="center">
+
+> **🌐 Choose your language · Elige tu idioma**
+>
+> [![🇺🇸 English](https://img.shields.io/badge/🇺🇸-English-1d6fa5?style=for-the-badge)](https://github.com/DRTX2#english-version)
+> [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸-Español-c0392b?style=for-the-badge)](https://github.com/DRTX2#version-espa%C3%B1ol)
+
+</div>
 
 ---
 
@@ -184,10 +188,22 @@ CI/CD Automation • REST APIs • gRPC • Machine Learning • Clean Code • 
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📈 Monitoring & Observability
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### 🧪 Testing & QA
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 📨 Message Brokers & Event Streaming
 
@@ -207,7 +223,6 @@ CI/CD Automation • REST APIs • gRPC • Machine Learning • Clean Code • 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Scalar](https://img.shields.io/badge/Scalar_API-1A1A2E?style=for-the-badge&logo=swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -260,6 +275,8 @@ Relevant Coursework: Software Architecture, IoT Systems, Responsive Web Design, 
 │   ├── CI/CD Pipelines (Jenkins, GitHub Actions)
 │   ├── Code Quality (SonarQube)
 │   ├── Container Orchestration (Docker, Kubernetes)
+│   ├── Reverse Proxy & Load Balancing (Nginx)
+│   ├── Monitoring & Observability (Grafana, Prometheus)
 │   └── Workflow Automation (n8n)
 │
 ├── API & Integrations
@@ -267,6 +284,11 @@ Relevant Coursework: Software Architecture, IoT Systems, Responsive Web Design, 
 │   ├── GraphQL
 │   ├── API Documentation (Scalar/OpenAPI)
 │   └── ERP Integration (Odoo)
+│
+├── Testing & QA
+│   ├── E2E Testing (Selenium, Playwright)
+│   ├── API Testing (Postman)
+│   └── Continuous Integration
 │
 └── AI & Data
     ├── Machine Learning (scikit-learn, TensorFlow)
@@ -461,10 +483,22 @@ Automatización CI/CD • REST APIs • gRPC • Machine Learning • Código Li
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📈 Monitoreo & Observabilidad
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### 🧪 Testing & QA
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 📨 Message Brokers & Event Streaming
 
@@ -484,7 +518,6 @@ Automatización CI/CD • REST APIs • gRPC • Machine Learning • Código Li
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Scalar](https://img.shields.io/badge/Scalar_API-1A1A2E?style=for-the-badge&logo=swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -537,6 +570,8 @@ Cursos relevantes: Arquitectura de Software, Sistemas IoT, Diseño Web Responsiv
 │   ├── Pipelines CI/CD (Jenkins, GitHub Actions)
 │   ├── Calidad de código (SonarQube)
 │   ├── Orquestación de contenedores (Docker, Kubernetes)
+│   ├── Proxy inverso & Balanceo de carga (Nginx)
+│   ├── Monitoreo & Observabilidad (Grafana, Prometheus)
 │   └── Automatización de flujos (n8n)
 │
 ├── APIs & Integraciones
@@ -544,6 +579,11 @@ Cursos relevantes: Arquitectura de Software, Sistemas IoT, Diseño Web Responsiv
 │   ├── GraphQL
 │   ├── Documentación API (Scalar/OpenAPI)
 │   └── Integración ERP (Odoo)
+│
+├── Testing & QA
+│   ├── Pruebas E2E (Selenium, Playwright)
+│   ├── Pruebas de API (Postman)
+│   └── Integración Continua
 │
 └── IA & Datos
     ├── Machine Learning (scikit-learn, TensorFlow)
