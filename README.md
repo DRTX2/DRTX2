@@ -80,13 +80,11 @@
 
 ---
 
-### 🎯 Currently Working On
+### 🎯 Current Focus & Interests
 
-- 🚀 Architecting event-driven applications using **Kafka** & **RabbitMQ** for high availability.
-- ☁️ Deploying robust cloud-native solutions on **Microsoft Azure**.
-- 🤖 Integrating **Machine Learning** models into production-ready APIs.
-- 🔄 Enhancing deployment velocity via automated CI/CD pipelines (**Jenkins** + **GitHub Actions** + **SonarQube**).
-- 📊 Automating business workflows utilizing **n8n** and optimizing performance with **Redis**.
+- ☁️ **Cloud Infrastructure:** Designing and scaling highly available cloud-native architectures on **Microsoft Azure**, container orchestration, and serverless computing.
+- 🔐 **Cybersecurity:** Strengthening system resilience, enforcing zero-trust API security, JWT/OAuth implementations, and auditing code security via **SonarQube**.
+- ⚙️ **Process & Test Automation:** Streamlining operations through automated CI/CD pipelines (**Jenkins** + **GitHub Actions**), E2E test suites (**Playwright** + **Selenium**), and workflow automation with **n8n**.
 
 ---
 
